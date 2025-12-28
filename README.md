@@ -2,4 +2,16 @@
 
 ### Original Images from: https://data.mendeley.com/datasets/ms6sjjpzwr/1
 ### Link to Dataset: https://huggingface.co/datasets/RyanChen1209/X-Ray-Fracture-Dataset/tree/main
-##### We're working on that testing set :)
+
+# UPDATE
+
+## Amazing News. Found 4 other data set in addition the original dataset
+* https://www.kaggle.com/code/gauravduttakiit/fracturefusion-efficientnet/input
+* https://www.kaggle.com/datasets/shyamgupta196/bone-fracture-split-classification
+* https://www.kaggle.com/datasets/pkdarabi/bone-break-classification-image-dataset
+* https://www.kaggle.com/datasets/amohankumar/bone-break-classifier-dataset
+* https://huggingface.co/datasets/electricsheepafrica/african-medical-multimodal-fracture
+
+### Now all that's left to do is...
+
+##### Filter filter filter...
